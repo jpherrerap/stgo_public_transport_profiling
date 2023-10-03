@@ -61,7 +61,9 @@ Subida            |  Bajada
 ![](figs/20230720055832.png)  |  ![](figs/20230720055837.png)
 
 #### Frecuencia acumulada durante el día (horario truncado a la última media hora)
-![](figs/20230720055421.png)  |  ![](figs/20230720055429.png)
+![](figs/20230720055421.png)
+
+![](figs/20230720055429.png)
 
 #### Segmentación por comuna
 ![](figs/20230720062413.png)
